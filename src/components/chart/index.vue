@@ -9,6 +9,7 @@
 
 <script>
 import OrgChart from "./plugin/orgchart";
+import "./plugin/style.css";
 
 export default {
   props: {
